@@ -17,4 +17,3 @@
     Guilherme Britto
     Michel Mendes
     Miguel Candau de Oliveira
-# Projeto-backend-portfolio
